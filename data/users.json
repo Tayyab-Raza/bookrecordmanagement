@@ -1,0 +1,48 @@
+{
+    "users": [
+        {
+          "id": "1",
+          "name": "John",
+          "surname": "Doe",
+          "email": "user@gmail.com",
+          "issuedbook": "1",
+          "issuedate": "04/01/2022",
+          "returndate": "05/01/2022",
+          "subscriptiontype": "premium",
+          "subscriptiondate": "04/01/2022"
+        },
+
+        {
+            "id": "2",
+            "name": "Jane",
+            "surname": "Doe",
+            "email": "user@gmail.com",
+            "issuedbook": "2",
+            "issuedate": "08/01/2022",
+            "returndate": "09/01/2022",
+            "subscriptiontype": "basic",
+            "subscriptiondate": "04/01/2022"
+          },
+
+          {
+            "id": "3",
+            "name": "John",
+            "surname": "paplo",
+            "email": "user@gmail.com",
+            "issuedbook": "3",
+            "issuedate": "10/01/2022",
+            "returndate": "15/01/2022",
+            "subscriptiontype": "basic",
+            "subscriptiondate": "04/01/2022"
+          },
+
+          {
+            "id": "4",
+            "name": "rayn",
+            "surname": "Doe",
+            "email": "user@gmail.com",
+            "subscriptiontype": "premium",
+            "subscriptiondate": "15/01/2022"
+          }
+    ]
+}
